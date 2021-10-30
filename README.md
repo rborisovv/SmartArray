@@ -1,2 +1,2 @@
 # SmartArray
-This repository is implementation of custom Data Structure.
+This repository is an implementation of custom Data Structure.
